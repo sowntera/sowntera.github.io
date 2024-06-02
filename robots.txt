@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sowntera.github.io/sitemap.html
+Sitemap: https://sowntera.github.io/app/sitemap.html
+Sitemap: https://sowntera.github.io/assets/sitemap.html
+Sitemap: https://sowntera.github.io/includes/sitemap.html
+Sitemap: https://sowntera.github.io/src/sitemap.html
